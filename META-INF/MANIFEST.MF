@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ZumbaManagementSystem
+Bundle-SymbolicName: GymManagementSolution
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: ZumbaManagementSystem.jar,
+ agugale/Downloads/mysql-connector-java-8.0.23.jar
+Automatic-Module-Name: ZumbaManagementSystem
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Export-Package: com.example
